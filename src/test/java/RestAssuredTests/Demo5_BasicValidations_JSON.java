@@ -6,7 +6,6 @@ import static org.hamcrest.Matchers.*;
 
 public class Demo5_BasicValidations_JSON {
 
-//  0
 
     @Test
     public void testLogging(){
