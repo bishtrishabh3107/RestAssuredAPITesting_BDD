@@ -1,0 +1,6 @@
+RestAssuredTests/Demo3_PUT_Request.class
+RestAssuredTests/Demo5_BasicValidations_JSON.class
+RestAssuredTests/Demo1_GetRequest.class
+RestAssuredTests/Demo2_POST_Request.class
+RestAssuredTests/Demo4_Delete_Request.class
+Utils/RestUtils.class

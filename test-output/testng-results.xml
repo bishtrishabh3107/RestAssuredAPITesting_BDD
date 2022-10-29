@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-28T18:48:14 IST" name="Suite" finished-at="2022-10-28T18:48:21 IST" duration-ms="6746">
+  <suite started-at="2022-10-29T10:45:11 IST" name="Suite" finished-at="2022-10-29T10:45:19 IST" duration-ms="8091">
     <groups>
     </groups>
-    <test started-at="2022-10-28T18:48:14 IST" name="Test" finished-at="2022-10-28T18:48:21 IST" duration-ms="6746">
+    <test started-at="2022-10-29T10:45:11 IST" name="Test" finished-at="2022-10-29T10:45:19 IST" duration-ms="8091">
       <class name="RestAssuredTests.Demo2_POST_Request">
-        <test-method is-config="true" signature="postdata()[pri:0, instance:RestAssuredTests.Demo2_POST_Request@47d90b9e]" started-at="2022-10-28T18:48:19 IST" name="postdata" finished-at="2022-10-28T18:48:19 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="postdata()[pri:0, instance:RestAssuredTests.Demo2_POST_Request@47d90b9e]" started-at="2022-10-29T10:45:17 IST" name="postdata" finished-at="2022-10-29T10:45:17 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postdata -->
-        <test-method signature="testPost()[pri:0, instance:RestAssuredTests.Demo2_POST_Request@47d90b9e]" started-at="2022-10-28T18:48:19 IST" name="testPost" finished-at="2022-10-28T18:48:20 IST" duration-ms="1087" status="PASS">
+        <test-method signature="testPost()[pri:0, instance:RestAssuredTests.Demo2_POST_Request@47d90b9e]" started-at="2022-10-29T10:45:17 IST" name="testPost" finished-at="2022-10-29T10:45:18 IST" duration-ms="1175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPost -->
       </class> <!-- RestAssuredTests.Demo2_POST_Request -->
       <class name="RestAssuredTests.Demo1_GetRequest">
-        <test-method signature="getProductDetails()[pri:0, instance:RestAssuredTests.Demo1_GetRequest@6d2a209c]" started-at="2022-10-28T18:48:17 IST" name="getProductDetails" finished-at="2022-10-28T18:48:19 IST" duration-ms="1178" status="PASS">
+        <test-method signature="getProductDetails()[pri:0, instance:RestAssuredTests.Demo1_GetRequest@6d2a209c]" started-at="2022-10-29T10:45:15 IST" name="getProductDetails" finished-at="2022-10-29T10:45:17 IST" duration-ms="1363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getProductDetails -->
       </class> <!-- RestAssuredTests.Demo1_GetRequest -->
       <class name="RestAssuredTests.Demo5_BasicValidations_JSON">
-        <test-method signature="testLogging()[pri:0, instance:RestAssuredTests.Demo5_BasicValidations_JSON@5e316c74]" started-at="2022-10-28T18:48:16 IST" name="testLogging" finished-at="2022-10-28T18:48:17 IST" duration-ms="1170" status="PASS">
+        <test-method signature="testLogging()[pri:0, instance:RestAssuredTests.Demo5_BasicValidations_JSON@5e316c74]" started-at="2022-10-29T10:45:15 IST" name="testLogging" finished-at="2022-10-29T10:45:15 IST" duration-ms="893" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogging -->
       </class> <!-- RestAssuredTests.Demo5_BasicValidations_JSON -->
       <class name="RestAssuredTests.Demo4_Delete_Request">
-        <test-method signature="deleteEmployeeRecord()[pri:0, instance:RestAssuredTests.Demo4_Delete_Request@78aab498]" started-at="2022-10-28T18:48:14 IST" name="deleteEmployeeRecord" finished-at="2022-10-28T18:48:16 IST" duration-ms="2288" status="PASS">
+        <test-method signature="deleteEmployeeRecord()[pri:0, instance:RestAssuredTests.Demo4_Delete_Request@78aab498]" started-at="2022-10-29T10:45:11 IST" name="deleteEmployeeRecord" finished-at="2022-10-29T10:45:15 IST" duration-ms="3731" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteEmployeeRecord -->
       </class> <!-- RestAssuredTests.Demo4_Delete_Request -->
       <class name="RestAssuredTests.Demo3_PUT_Request">
-        <test-method is-config="true" signature="putData()[pri:0, instance:RestAssuredTests.Demo3_PUT_Request@1184ab05]" started-at="2022-10-28T18:48:20 IST" name="putData" finished-at="2022-10-28T18:48:20 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="putData()[pri:0, instance:RestAssuredTests.Demo3_PUT_Request@1184ab05]" started-at="2022-10-29T10:45:18 IST" name="putData" finished-at="2022-10-29T10:45:18 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- putData -->
-        <test-method signature="testPut()[pri:0, instance:RestAssuredTests.Demo3_PUT_Request@1184ab05]" started-at="2022-10-28T18:48:20 IST" name="testPut" finished-at="2022-10-28T18:48:21 IST" duration-ms="999" status="PASS">
+        <test-method signature="testPut()[pri:0, instance:RestAssuredTests.Demo3_PUT_Request@1184ab05]" started-at="2022-10-29T10:45:18 IST" name="testPut" finished-at="2022-10-29T10:45:19 IST" duration-ms="905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPut -->

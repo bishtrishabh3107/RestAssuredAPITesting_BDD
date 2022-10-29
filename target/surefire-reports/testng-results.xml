@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-29T23:34:57 IST" name="Suite" finished-at="2022-10-29T23:35:12 IST" duration-ms="14749">
+    <groups>
+    </groups>
+    <test started-at="2022-10-29T23:34:57 IST" name="Test" finished-at="2022-10-29T23:35:12 IST" duration-ms="14749">
+      <class name="RestAssuredTests.Demo2_POST_Request">
+        <test-method is-config="true" signature="postdata()[pri:0, instance:RestAssuredTests.Demo2_POST_Request@4df828d7]" started-at="2022-10-29T23:35:04 IST" name="postdata" finished-at="2022-10-29T23:35:04 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postdata -->
+        <test-method signature="testPost()[pri:0, instance:RestAssuredTests.Demo2_POST_Request@4df828d7]" started-at="2022-10-29T23:35:04 IST" name="testPost" finished-at="2022-10-29T23:35:09 IST" duration-ms="4449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPost -->
+      </class> <!-- RestAssuredTests.Demo2_POST_Request -->
+      <class name="RestAssuredTests.Demo1_GetRequest">
+        <test-method signature="getProductDetails()[pri:0, instance:RestAssuredTests.Demo1_GetRequest@101df177]" started-at="2022-10-29T23:35:02 IST" name="getProductDetails" finished-at="2022-10-29T23:35:04 IST" duration-ms="2125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductDetails -->
+      </class> <!-- RestAssuredTests.Demo1_GetRequest -->
+      <class name="RestAssuredTests.Demo5_BasicValidations_JSON">
+        <test-method signature="testLogging()[pri:0, instance:RestAssuredTests.Demo5_BasicValidations_JSON@2f490758]" started-at="2022-10-29T23:35:01 IST" name="testLogging" finished-at="2022-10-29T23:35:02 IST" duration-ms="1529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogging -->
+      </class> <!-- RestAssuredTests.Demo5_BasicValidations_JSON -->
+      <class name="RestAssuredTests.Demo4_Delete_Request">
+        <test-method signature="deleteEmployeeRecord()[pri:0, instance:RestAssuredTests.Demo4_Delete_Request@2df32bf7]" started-at="2022-10-29T23:34:57 IST" name="deleteEmployeeRecord" finished-at="2022-10-29T23:35:00 IST" duration-ms="3387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployeeRecord -->
+      </class> <!-- RestAssuredTests.Demo4_Delete_Request -->
+      <class name="RestAssuredTests.Demo3_PUT_Request">
+        <test-method is-config="true" signature="putData()[pri:0, instance:RestAssuredTests.Demo3_PUT_Request@b59d31]" started-at="2022-10-29T23:35:09 IST" name="putData" finished-at="2022-10-29T23:35:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putData -->
+        <test-method signature="testPut()[pri:0, instance:RestAssuredTests.Demo3_PUT_Request@b59d31]" started-at="2022-10-29T23:35:09 IST" name="testPut" finished-at="2022-10-29T23:35:12 IST" duration-ms="3166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPut -->
+      </class> <!-- RestAssuredTests.Demo3_PUT_Request -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

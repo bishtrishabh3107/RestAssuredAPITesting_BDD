@@ -20,8 +20,7 @@ public class Demo1_GetRequest {
     @Test
     public void getProductDetails(){
         given().when().get("https://dummyjson.com/products/1").
-                then().statusCode(200).assertThat().body("title",equalTo("iPhone 9")).
-                header("Content-Type","application/json; charset=utf-8");
+                then().statusCode(200).assertThat().body("title",equalTo("iPhone 9"));
 
     }
 
